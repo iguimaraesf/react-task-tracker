@@ -72,3 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Momento do video
 - https://youtu.be/w7ejDZ8SWv8?t=892
 - https://youtu.be/w7ejDZ8SWv8?t=3256
+- Minor adjustments to "react-dom": "^18.2.0"
+    * 1:08:47 - Checkbox - <input type='checkbox' checked={reminder} onChange={(e) => setReminder(e.target.checked)} />
+
+- https://youtu.be/w7ejDZ8SWv8?t=4974
+
