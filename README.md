@@ -76,4 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     * 1:08:47 - Checkbox - <input type='checkbox' checked={reminder} onChange={(e) => setReminder(e.target.checked)} />
 
 - https://youtu.be/w7ejDZ8SWv8?t=4974
-
+- ver tutoriais sobre: useEffect, useState
